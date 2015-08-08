@@ -1,3 +1,5 @@
+# Swiss Python Conference
+
 After the nice experience of Europython 2015 a small group of enthusiasts came up with the idea of organizing a Swiss Python Conference.
 
 We'll collect here all ideas and use this space for collaboration and issue tracking.
@@ -10,7 +12,7 @@ We can keep the costs down to zero if we manage to do the following:
 * Not offer any food, but give the option to either reserve enough places in a restaurant or sign up for food delivery, which would be privately paid by each attendant.
 * Make it a one day event, to reduce the complexity of the logistics and to spare the participants the need of lodging 
 
-# Location & Date
+## Location & Date
 
 The conference will take place in the University of Applied Sciences in Rapperswil SG.
 
@@ -18,6 +20,6 @@ The conference will take place in the University of Applied Sciences in Rappersw
 
 The date is not yet fixed, it will be either end of January or beginning of February 2016.
 
-# Interested?
+## Interested?
 
 You can check and add yourself to the list of interested people at https://github.com/SwissPy/swisspycon/wiki. In case you don't have a github account you can write an email to ccdesales@gmail.com
