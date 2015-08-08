@@ -10,3 +10,4 @@ We can keep the costs down to zero if we manage to do the following:
 * Not offer any food, but give the option to either reserve enough places in a restaurant or sign up for food delivery, which would be privately paid by each attendant.
 * Make it a one day event, to reduce the complexity of the logistics and to spare the participants the need of lodging 
 
+You can check and add yourself to the list of interested people at https://github.com/SwissPy/swisspycon/wiki. In case you don't have a github account you can write an email to ccdesales@gmail.com
