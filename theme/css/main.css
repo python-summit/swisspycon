@@ -1,0 +1,81 @@
+/*
+relapse - a Pelican theme using Bootstrap 
+Copyright (c) 2012 Warren Moore
+https://github.com/wamonite/relapse
+*/
+@media screen and (min-width: 767px)
+{
+  header
+  {
+    background-color: #016cdb;
+  }
+  header .container h1
+  {
+    font-family: 'Chelsea Market', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 40pt;
+    border-bottom: 0px;
+    text-shadow: 2px 2px 5px #000000;
+  }
+  section#body
+  {
+    background-image:url('/theme/images/header_shadow.png');
+    background-position: top;
+    background-repeat: repeat-x;
+    padding-top: 10px;
+  }
+  header .container h1 a
+  {
+    color: #fff;
+  }
+  header .container h1 a:hover
+  {
+    color: #ddd;
+  }
+}
+
+@media screen and (max-width: 767px)
+{
+  header .container h1
+  {
+    font-family: 'Chelsea Market', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 34pt;
+    border-bottom: 0px;
+    text-shadow: 1px 1px 3px #000000;
+  }
+}
+
+header .container h1
+{
+  margin: 10px 0 10px;
+  padding-bottom: 10px;
+}
+a,a:hover
+{
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6
+{
+  border-bottom: 1px solid #bbb;
+}
+section#body nav
+{
+  margin-bottom: 0px
+}
+article .info
+{
+  font-size: smaller;
+}
+nav.pagination
+{
+  text-align: center;
+}
+footer
+{
+  margin-top: 20px;
+  text-align: center;
+  border-top: 1px solid #bbb;
+}
+code
+{
+  color: #333;
+}
