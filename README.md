@@ -14,11 +14,9 @@ We can keep the costs down to zero if we manage to do the following:
 
 ## Location & Date
 
-The conference will take place in the University of Applied Sciences in Rapperswil SG.
+The conference will take place in the University of Applied Sciences in Rapperswil SG, on February 5th 2016.
 
 ![img](https://cloud.githubusercontent.com/assets/105168/8893359/bddb8cb4-338d-11e5-9132-ab82648678b4.jpg)
-
-The date is not yet fixed, it will be either end of January or beginning of February 2016.
 
 ## Interested?
 
