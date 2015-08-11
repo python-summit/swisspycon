@@ -1,0 +1,16 @@
+/* hide the category/post date for now*/
+.post > .list-inline {
+    display: none;
+}
+
+img {
+    margin-bottom: .5em;
+}
+
+.header {
+    border-top: 0;
+}
+
+.container {
+    max-width: 750px;
+}
