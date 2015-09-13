@@ -1,4 +1,4 @@
-# Swiss Python Conference
+# Swiss Python Summit
 
 After the nice experience of Europython 2015 a small group of enthusiasts came up with the idea of organizing a Swiss Python Conference.
 
