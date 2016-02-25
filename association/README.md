@@ -13,7 +13,8 @@ by Articles 60 et seq. of the Swiss Civil Code. It is neutral politically and r
 
 #### Article 2
 
-Its seat and office is the address of the Secretary of the Association for the time being. The Association shall be of unlimited duration. 
+Its seat and office is the address of the Secretary of the Association for the time being. 
+The Association shall be of unlimited duration. 
 
 ### Aims
 
@@ -147,10 +148,14 @@ The authority to sign for the society may be delegated to individual Committee m
 
 #### Article 18
 
+The official language of the Association is english.
+
+#### Article 19
+
 The financial year shall begin on 1 January and end on 31 December of each year. 
 The Treasurer is responsible for the Association's finances. 
 
-#### Article 19
+#### Article 20
 
 Should the Association be dissolved, the available assets should be transferred to a non-profit organization 
 pursuing public interest goals similar to those of the Association and likewise benefiting from tax exemption. Under no circumstances should the assets be returned to the founders or members. Nor should they use a part or a total of assets for their own benefit. 
