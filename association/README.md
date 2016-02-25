@@ -152,13 +152,19 @@ The official language of the Association is english.
 
 #### Article 19
 
-The financial year shall begin on 1 January and end on 31 December of each year. 
-The Treasurer is responsible for the Association's finances. 
+The Association may devolve part of its assets to non-profit organizations promoting the Python programming language. 
 
 #### Article 20
 
+The financial year shall begin on 1 January and end on 31 December of each year. 
+The Treasurer is responsible for the Association's finances. 
+
+#### Article 21
+
 Should the Association be dissolved, the available assets should be transferred to a non-profit organization 
-pursuing public interest goals similar to those of the Association and likewise benefiting from tax exemption. Under no circumstances should the assets be returned to the founders or members. Nor should they use a part or a total of assets for their own benefit. 
+pursuing public interest goals similar to those of the Association and likewise benefiting from tax exemption. 
+Under no circumstances should the assets be returned to the founders or members. 
+Nor should they use a part or a total of assets for their own benefit. 
 
 The present Statutes have been approved by the Constituent General Assembly of ... at ...
 
