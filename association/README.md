@@ -14,7 +14,7 @@ by Articles 60 et seq. of the Swiss Civil Code. It is neutral politically and r
 #### Article 2
 
 Its seat and office is the address of the Secretary of the Association for the time being. 
-The Association shall be of unlimited duration. 
+The Association shall be of unlimited duration.
 
 ### Aims
 
@@ -148,7 +148,7 @@ The authority to sign for the society may be delegated to individual Committee m
 
 #### Article 18
 
-The official language of the Association is english.
+The official language of the Association is English.
 
 #### Article 19
 
