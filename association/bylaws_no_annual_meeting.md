@@ -73,8 +73,7 @@ The Association shall include the following organs:
 
 The General Assembly is the Association's supreme authority. It is composed of all the members.
  
-It shall hold an Ordinary Meeting once each year. It may also hold an extraordinary session whenever necessary, 
-at the request of the Committee or at least of one-fifth of its members.
+It shall hold a session whenever necessary, at the request of the Committee or at least of one-fifth of its members.
  
 The General Assembly shall be considered valid regardless of the number of members present.
  
@@ -106,10 +105,6 @@ Decisions concerning the amendment of the Statutes and the dissolution of the As
 
 #### Article 11
 
-Votes are by a show of hands.  
-
-#### Article 12
-
 The agenda of the ordinary annual session of the General Assembly must include:
 
 * approval of the Minutes of the previous General Assembly, 
@@ -121,18 +116,25 @@ The agenda of the ordinary annual session of the General Assembly must include:
 * election of Committee members,
 * miscellaneous business.
 
+
+Shall the General Assembly not hold any session during the fiscal year, the fiscal report approved by the 
+Committee will be sent to all members within three months after the end of the fiscal year. Members may then request the 
+Committee to nominate an external member to audit those reports within one month. In case the fiscal report is not
+approved by the Auditor within two months from the members request, the Committee shall then
+call a General Assembly.
+
 ### Committee
 
-#### Article 13
+#### Article 12
 
 The Committee is authorized to carry out all acts that further the purposes of the Association. 
 It has the most extensive powers to manage the Association's day-to-day affairs. 
 
-#### Article 14 
+#### Article 13 
 
 The Committee meets as often as the Association's business requires.
 
-#### Article 15
+#### Article 14
 
 The functions of the Committee are:
 
@@ -141,7 +143,7 @@ The functions of the Committee are:
 * to take decisions with regard to admission of new members as well as the resignation and possible expulsion of members; 
 * to ensure that Statutes are applied, to draft rules of procedure, and to administer the assets of the Association.
 
-#### Article 16
+#### Article 15
 
 The chair person of the Committee together with any one member of the Committee has the authority to sign for the society. 
 
@@ -149,20 +151,20 @@ The authority to sign for the society may be delegated to individual Committee m
 
 ### Various provisions
 
-#### Article 18
+#### Article 16
 
 The official language of the Association is English.
 
-#### Article 19
+#### Article 17
 
 The Association may devolve part of its assets to non-profit organizations promoting the Python programming language. 
 
-#### Article 20
+#### Article 18
 
 The financial year shall begin on 1 January and end on 31 December of each year. 
 The Treasurer is responsible for the Association's finances. 
 
-#### Article 21
+#### Article 19
 
 Should the Association be dissolved, the available assets should be transferred to a non-profit organization 
 pursuing public interest goals similar to those of the Association and likewise benefiting from tax exemption. 
