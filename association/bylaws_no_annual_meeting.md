@@ -13,7 +13,7 @@ by Articles 60 et seq. of the Swiss Civil Code. It is neutral politically and r
 
 #### Article 2
 
-Its seat and office is the address of the Secretary of the Association for the time being. 
+Its seat is in the Canton of Zurich. Its office is the address of the Secretary of the Association for the time being. 
 
 The Association shall be of unlimited duration.
 
