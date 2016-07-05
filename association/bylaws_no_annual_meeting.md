@@ -14,6 +14,7 @@ by Articles 60 et seq. of the Swiss Civil Code. It is neutral politically and r
 #### Article 2
 
 Its seat and office is the address of the Secretary of the Association for the time being. 
+
 The Association shall be of unlimited duration.
 
 ### Aims
@@ -41,10 +42,12 @@ The funds shall be used in accordance with the Association's social aims.
 
 #### Article 5
 
+
 To become a member of the association the applicant must submit an application to the Committee. 
 The Committee accepts or declines the application by a simple majority vote at its next meeting. 
 The Committee may delegate the right to accept membership application to one or more individual board members, 
 but denial of membership must always be done by a vote of the Committee.
+
 
 Membership ceases:
 
@@ -53,19 +56,24 @@ Membership ceases:
 * by exclusion ordered by the Committee, for just cause, with a right of appeal to the General Assembly. Appeals must be lodged within 30 days of the Committee’s decision being notified;
 * for non-payment of dues for more than one year.
 
+
 In all cases the membership fee for the current year remains due. 
 Members who have resigned or who are excluded have no rights to any part of the Association’s assets.
 
+
 Only the Association's assets may be used for obligations/commitments contracted in its name. Members have no personal liability.
+
 
 ### Organs
 
 #### Article 6 
 
+
 The Association shall include the following organs:
 
 * The General Assembly,
 * The Executive Committee.
+
 
 ### General Assembly
 
@@ -109,9 +117,11 @@ The General Assembly is presided over by the President of the Association or the
 
 Decisions of the General Assembly shall be taken by a majority vote of the members present. In case of deadlock, the President shall have the casting vote.
  
+
 Decisions concerning the amendment of the Statutes and the dissolution of the Association must be approved by a two-third majority of the members present.
 
 #### Article 11
+
 
 The agenda of the ordinary annual session of the General Assembly must include:
 
@@ -153,7 +163,9 @@ The functions of the Committee are:
 
 #### Article 15
 
+
 The chair person of the Committee together with any one member of the Committee has the authority to sign for the society. 
+
 
 The authority to sign for the society may be delegated to individual Committee members through a decision of the Committee.
 
@@ -179,8 +191,14 @@ pursuing public interest goals similar to those of the Association and likewise 
 Under no circumstances should the assets be returned to the founders or members. 
 Nor should they use a part or a total of assets for their own benefit. 
 
-The present Statutes have been approved by the Constituent General Assembly of ... at ...
+
+The present Statutes have been approved by the Constituent General Assembly of ............................... 
+
+
+at ........................
+
 
 For the Association
+
 
 President                                                                Secretary 
