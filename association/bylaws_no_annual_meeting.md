@@ -71,18 +71,23 @@ The Association shall include the following organs:
 
 #### Article 7 
 
+
 The General Assembly is the Association's supreme authority. It is composed of all the members.
  
+
 It shall hold a session whenever necessary, at the request of the Committee or at least of one-fifth of its members, but
 at least once every two years.
  
+
 The General Assembly shall be considered valid if at least 5 members are present. 
 If the association has less than 6 members, then no more than one member may be absent, or the General Assembly 
 shall be considered invalid.
  
+
 The Committee shall inform the members in writing of the date of the General Assembly at least 
 six weeks in advance. The notification, including the proposed agenda, shall be sent to each member at 
 least 10 days prior to the date of the meeting.
+
 
 #### Article 8
 
