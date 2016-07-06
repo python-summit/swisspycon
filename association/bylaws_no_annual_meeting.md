@@ -38,9 +38,20 @@ The Association's resources are derived from:
 
 The funds shall be used in accordance with the Association's social aims.
 
+
+### Organs
+
+#### Article 5 
+
+
+The Association shall include the following organs:
+
+* The General Assembly,
+* The Executive Committee.
+
 ### Members
 
-#### Article 5
+#### Article 6
 
 
 To become a member of the association the applicant must submit an application to the Committee. 
@@ -62,17 +73,6 @@ Members who have resigned or who are excluded have no rights to any part of the 
 
 
 Only the Association's assets may be used for obligations/commitments contracted in its name. Members have no personal liability.
-
-
-### Organs
-
-#### Article 6 
-
-
-The Association shall include the following organs:
-
-* The General Assembly,
-* The Executive Committee.
 
 
 ### General Assembly
@@ -177,7 +177,7 @@ The Association may devolve part of its assets to non-profit organizations promo
 
 #### Article 18
 
-The financial year shall begin on 1 July and end on 30 June. 
+The financial year shall begin on 1st July and end on 30th June. 
 The Treasurer is responsible for the Association's finances. 
 
 #### Article 19
@@ -188,13 +188,19 @@ Under no circumstances should the assets be returned to the founders or members.
 Nor should they use a part or a total of assets for their own benefit. 
 
 
-The present Statutes have been approved by the Constituent General Assembly of ............................... 
-
-
-at ........................
+The present Statutes have been approved by the Constituent General Assembly of 6th July 2016 in Zurich.
 
 
 For the Association
 
 
-President                                                                Secretary 
+
+
+
+President                                                                
+
+
+
+
+
+Secretary                                                                 
