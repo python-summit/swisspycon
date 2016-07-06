@@ -160,7 +160,7 @@ The functions of the Committee are:
 #### Article 15
 
 
-The chair person of the Committee together with any one member of the Committee has the authority to sign for the society. 
+The President of the Association together with any one member of the Committee has the authority to sign for the society. 
 
 
 The authority to sign for the society may be delegated to individual Committee members through a decision of the Committee.
