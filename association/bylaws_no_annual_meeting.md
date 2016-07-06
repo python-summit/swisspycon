@@ -177,7 +177,7 @@ The Association may devolve part of its assets to non-profit organizations promo
 
 #### Article 18
 
-The financial year shall begin on 1 January and end on 31 December of each year. 
+The financial year shall begin on 1 July and end on 30 June of the following year. 
 The Treasurer is responsible for the Association's finances. 
 
 #### Article 19
