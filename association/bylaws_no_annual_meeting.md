@@ -137,12 +137,6 @@ The agenda of the ordinary annual session of the General Assembly must include:
 * miscellaneous business.
 
 
-Shall the General Assembly not hold any session during the fiscal year, the fiscal report approved by the 
-Committee will be sent to all members within three months after the end of the fiscal year. Members may then request the 
-Committee to nominate an external member to audit those reports within one month. In case the fiscal report is not
-approved by the Auditor within two months from the members request, the Committee shall then
-call a General Assembly.
-
 ### Committee
 
 #### Article 12
