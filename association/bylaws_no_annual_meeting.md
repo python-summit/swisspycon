@@ -13,9 +13,7 @@ by Articles 60 et seq. of the Swiss Civil Code. It is neutral politically and r
 
 #### Article 2
 
-Its seat is in the Canton of Zurich. 
-
-The Association shall be of unlimited duration.
+Its seat is in the Canton of Zurich. The Association shall be of unlimited duration.
 
 ### Aims
 
