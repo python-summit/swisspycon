@@ -183,7 +183,7 @@ The Treasurer is responsible for the Association's finances.
 #### Article 19
 
 Should the Association be dissolved, the available assets should be transferred to a non-profit organization 
-pursuing public interest goals similar to those of the Association and likewise benefiting from tax exemption. 
+pursuing public interest goals similar to those of the Association. 
 Under no circumstances should the assets be returned to the founders or members. 
 Nor should they use a part or a total of assets for their own benefit. 
 
