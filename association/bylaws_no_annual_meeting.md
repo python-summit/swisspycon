@@ -191,16 +191,4 @@ Nor should they use a part or a total of assets for their own benefit. 
 The present Statutes have been approved by the Constituent General Assembly of 6th July 2016 in Zurich.
 
 
-For the Association
-
-
-
-
-
-President                                                                
-
-
-
-
-
-Secretary                                                                 
+For the Association, President                          , Secretary.
