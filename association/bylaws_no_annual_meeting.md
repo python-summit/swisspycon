@@ -84,7 +84,7 @@ The General Assembly is the Association's supreme authority. It is composed of a
  
 
 It shall hold a session whenever necessary, at the request of the Committee or at least of one-fifth of its members, but
-at least once every two years.
+at least once a year.
  
 
 The General Assembly shall be considered valid if at least 5 members are present. 
@@ -95,6 +95,8 @@ shall be considered invalid.
 The Committee shall inform the members in writing of the date of the General Assembly at least 
 six weeks in advance. The notification, including the proposed agenda, shall be sent to each member at 
 least 10 days prior to the date of the meeting.
+
+It is also possible to have an extraordinary General Assembly without advance notice if at least 70 percent of all members agree to it.
 
 
 #### Article 8
