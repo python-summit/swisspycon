@@ -21,7 +21,7 @@ The Association shall be of unlimited duration.
 
 #### Article 3 
 
-The purpose of the Swiss Python Summit Association is to organise conferences centered around the programming 
+The purpose of the Swiss Python Summit Association is to organise events centered around the programming 
 language Python in Switzerland.
 
 ### Resources
